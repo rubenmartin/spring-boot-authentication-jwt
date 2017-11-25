@@ -1,4 +1,4 @@
-package com.bedirhanatasoy.springbootangular5restauthentication;
+package com.bedirhanatasoy.springboot.rest;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
