@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.bedirhanatasoy</groupId>
-	<artifactId>spring-boot-authentication-jwt-rest</artifactId>
+	<artifactId>spring-boot-authentication-jwt</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>spring-boot-authentication-jwt-rest</name>
+	<name>spring-boot-authentication-jwt</name>
 	<description>Spring Boot Authentication with REST</description>
 
 	<parent>
