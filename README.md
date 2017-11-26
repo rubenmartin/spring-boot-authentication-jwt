@@ -14,7 +14,7 @@ Technology stack:
 
 ## How to Run 
 
-This application is packaged as a jar which has Tomcat embedded. No java application server installation is necessary. You can run it using the ```java -jar``` command.
+This application is packaged as a jar which has Tomcat embedded. No java application server installation is necessary. You can run it using the ```mvn spring-boot:run``` command.
 
 * Clone this repository 
 ```
@@ -32,7 +32,7 @@ Once the application runs you should see something like this
 ```
 2017-11-26 11:11:25.111  INFO 31505 --- [main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8080 (http)
 2017-11-26 11:11:25.118  INFO 31505 --- [main] c.b.springboot.auth.Application          : Started Application in 10.037 seconds (JVM running for 13.963)
-``
+```
 
 ## About the Project
 
